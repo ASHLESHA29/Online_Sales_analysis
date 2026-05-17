@@ -21,6 +21,10 @@ Best performing product categories
 Region-wise sales distribution
 Payment method usage analysis
 High-value vs low-value transactions
+<img width="615" height="252" alt="Screenshot 2026-05-17 185554" src="https://github.com/user-attachments/assets/12374563-8950-46ea-aaba-ab2bfbde2da6" />
+<img width="610" height="240" alt="Screenshot 2026-05-17 185606" src="https://github.com/user-attachments/assets/07285d79-3173-4d54-a15e-494a617c7902" />
+<img width="347" height="248" alt="Screenshot 2026-05-17 185627" src="https://github.com/user-attachments/assets/382f857e-0120-41ad-a4dc-afb830a2a780" />
+<img width="641" height="347" alt="Screenshot 2026-05-17 185647" src="https://github.com/user-attachments/assets/664cef5c-845d-43cc-a802-2668615887cd" />
 
 ## 📊 Sample SQL Queries
 
